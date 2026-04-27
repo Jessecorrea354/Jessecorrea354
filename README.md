@@ -15,6 +15,14 @@
 ---
 *Focado na união entre tecnologia e o universo jurídico.*
 
+## 🏆 Projeto de Destaque: SmashZone
+**Lançador de Petecas de Badminton Automático**
+- **Descrição:** Sistema mecatrônico capaz de lançar petecas com regulagem personalizada de ângulo e intensidade.
+- **Tecnologias:** C++, Eletrônica de Potência e Mecânica de Precisão.
+- **Diferencial:** Automação completa do treino, permitindo ajustes via software/hardware.
+- 
+- **LINKEDIN**
+
 https://www.linkedin.com/in/jesse-levy-de-sousa-correa-09998338b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
